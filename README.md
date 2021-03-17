@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe
+There are many tutorials out there using games as project. Tic-Tac-Toe is no exception. This example definitely has its origin based on the [React.org] (https://reactjs.org/) version. I was looking to create a react version that used some modules and hooks. I came across a great tutorial by [Shif Ben Avraham] (https://medium.com/@shifrb/about) and pulled in this knowledge as an inspiration for my first React project, along with some stuff I learned along the way.
+## Motivation
+I am relatively new to coding and trying to learn some React. 
+## Build status
+node 14.15.5, npm 7.5.3, Create-react-app, Bootstrap v4.5.3, Visual Studio Code 1.54.1
+## Code style
+React, JSX, JavaScript ES6, HTML, CSS
+## Screenshots
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Tech/framework used
+(IDE) Used for this project was 'Visual Studio 2017'.
+## How to use?
+Download:
+Follow the process for cloning a GitHub repository.
+Navigate to the folder housing the repository and open folder using your favorite IDE.
+Open a terminal and type this command npm start  (this project is still in developer’s mode)
+## Credits
+**A – Z …**
+[PluralSight] (https://www.pluralsight.com) For access to authors, content and learning opportunities.  
+[Peter Kellner] (https://peterkellner.net/) For an introduction into React Hooks.
+[React Organization] (https://reactjs.org) For reference, tutorials and learning opportunities.
+[Roland Guijt] (https://rolandguijt.com/) For an introduction into the basics of React. 
+[Shif Ben Avraham] (
+## License
+MIT
