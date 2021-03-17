@@ -13,8 +13,8 @@ React, JSX, JavaScript ES6, HTML, CSS
 ## How to use?
 Download:
 Follow the process for cloning a GitHub repository. [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-Navigate to the folder housing the repository and open folder using your favorite IDE.
-Open a terminal and type this command npm start  (this project is still in developer’s mode)
+Navigate to the folder on your computer housing the repository (TictactoeAGame) and open folder using your favorite IDE.
+Open a terminal and type the npm start command. (this project is still in developer’s mode)
 ## Credits
 **A – Z …**
 [PluralSight](https://www.pluralsight.com) For access to authors, content and learning opportunities.  
