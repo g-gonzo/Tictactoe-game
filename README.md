@@ -21,6 +21,6 @@ Open a terminal and type this command npm start  (this project is still in devel
 [Peter Kellner] (https://peterkellner.net/) For an introduction into React Hooks.
 [React Organization] (https://reactjs.org) For reference, tutorials and learning opportunities.
 [Roland Guijt] (https://rolandguijt.com/) For an introduction into the basics of React. 
-[Shif Ben Avraham] (
+[Shif Ben Avraham] (https://medium.com/@shifrb/about) For an introduction into the basics of React.
 ## License
-MIT
+MIT © [Gilbert Gonzales]()
