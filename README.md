@@ -7,12 +7,12 @@ node 14.15.5, npm 7.5.3, Create-react-app, Bootstrap v4.5.3, Visual Studio Code 
 ## Code style
 React, JSX, JavaScript ES6, HTML, CSS
 ## Screenshots
-
+![](images/tictactoe.png)
 ## Tech/framework used
 (IDE) Used for this project was 'Visual Studio 2017'.
 ## How to use?
 Download:
-Follow the process for cloning a GitHub repository.
+Follow the process for cloning a GitHub repository. [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 Navigate to the folder housing the repository and open folder using your favorite IDE.
 Open a terminal and type this command npm start  (this project is still in developer’s mode)
 ## Credits
