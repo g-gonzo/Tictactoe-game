@@ -3,7 +3,7 @@ There are many tutorials out there using games as project. Tic-Tac-Toe is no exc
 ## Motivation
 I am relatively new to coding and trying to learn some React. 
 ## Build status
-node 14.15.5, npm 7.5.3, Create-react-app, Bootstrap v4.5.3, Visual Studio Code 1.54.1
+Node, React, Bootstrap, Visual Studio Code
 ## Code style
 React, JSX, JavaScript ES6, HTML, CSS
 ## Screenshots
